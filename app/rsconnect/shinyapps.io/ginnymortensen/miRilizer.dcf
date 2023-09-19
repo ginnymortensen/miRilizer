@@ -1,0 +1,12 @@
+name: miRilizer
+title:
+username:
+account: ginnymortensen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9609191
+bundleId: 7593119
+url: https://ginnymortensen.shinyapps.io/miRilizer/
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|.Rprofile.site|testing
